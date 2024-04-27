@@ -51,10 +51,10 @@ def pengirim_warna(berjalan):  # Terima flag berjalan sebagai argumen
 Fungsi ini adalah utas yang bertugas secara terus-menerus mengirimkan warna acak ke semua klien yang terhubung setiap 10 detik. Ini dilakukan dengan menggunakan loop yang berjalan selama variabel berjalan bernilai True. Fungsi ini menjaga agar server dapat secara otomatis mengirimkan warna ke klien tanpa memblokir proses utama server.
 
 ## 2. Contoh Ketika Program Berjalan
-###Server
+Server
 ![App Screenshot](./Image/1.png)
 
-###Client
+Client
 ![App Screenshot](./Image/2.png)
 
 ## 3. Test Case
